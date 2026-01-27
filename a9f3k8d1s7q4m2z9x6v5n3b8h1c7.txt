@@ -7,30 +7,23 @@ sn://ssh?eNpjYGBgMDQx0LO01DM0MNQzNN4gBhRJLCpOzEl8xwhkuiQWZZYWv2gEsX0Sc542NgIAF4A
 
 #Samantel
 
-vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116#%E2%9A%A1Telegram%20%3D%20%40vmessorg
-vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E4%BF%84%E7%BD%97%E6%96%AF%2002
 vless://cb33f36c-b531-4318-9be3-568e8d6c56c7@149.115.110.173:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=miui.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2004
 vless://85571fb3-6d15-49b0-e1d6-cf8b6dbd623e@23.81.34.138:443/?encryption=none&flow=&host=bmw.co%25F0%259F%259F%25AA&path=%2F&type=tcp&headerType=http#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2002
 vless://00c49863-6d15-4289-9229-841ee5f7868c@45.8.93.110:443/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=cloudflare.com&fp=chrome&security=reality&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182/?encryption=none&flow=&host=Excoino.com&type=tcp&headerType=http#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704/?encryption=none&flow=&host=soft98.ir&type=tcp&headerType=http#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
-vless://5daf1be0-eee4-4e94-8c5b-8d72ea26eb4a@23.148.20.100:30003/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&fp=safari&security=reality&pbk=hDXY23v5S_49APGptqI_AKB64vUDshlUY1N47AZAogs&sid=5c705576253d25#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2016
 vless://55d6dd80-a5e2-4e29-9a81-2d8593a6a3a4@154.31.114.125:443/?type=tcp&encryption=none&flow=&sni=navi.bankrate.com&fp=chrome&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2007
 vless://ccbc334b-de33-4431-89b4-35b756230f51@94.237.93.9:59421/?encryption=none&flow=&host=soft98.ir&path=%2F&type=tcp&headerType=http#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.5MB%2Fs
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@172.64.152.23:443/?type=ws&encryption=none&flow=&host=S56kTlFyZn.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=S56kTlFyZn.SmArTtEcHzAaL.iNfO#%40Shh_Proxy
 vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=images.apple.com&fp=chrome&security=reality&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2001
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443/?encryption=none&flow=&host=www.speedtest.net&path=%2F&type=tcp&headerType=http#%F0%9F%87%A6%F0%9F%87%B9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%A5%A5%E5%9C%B0%E5%88%A9%2005
 trojan://humanity@172.64.152.23:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880/?type=ws&encryption=none&flow=&path=%2F#%E2%9A%A1Telegram%20%3D%20%40vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#%E2%9A%A1Telegram%20%3D%20%40vmessorg
 vless://fe5612b7-be84-4b5c-bf24-edc1b736a226@88.210.6.30:14064/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@8.35.211.15:2087/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.3MB%2Fs
 vless://d7a3b63b-fb0d-42ee-b730-3a5489c80a1b@136.175.178.165:443/?type=tcp&encryption=none&flow=&sni=navi.bankrate.com&fp=chrome&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#%F0%9F%87%BA%F0%9F%87%B8US_10%7C1.2MB%2Fs
-socks5://174.138.61.184:1080/#%E9%A6%83%E5%9A%AD%E9%A6%83%E5%9A%ABUS_20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#%F0%9F%87%B3%F0%9F%87%B1NL_3
 vless://429931ce-3632-414a-956d-383c6e580ac5@23.81.33.155:443/?type=ws&encryption=none&flow=&host=www.varzesh3.com&path=%2F#%F0%9F%87%AC%F0%9F%87%A7GB_1
 vless://59104543-64b9-48dd-9ba9-d2a0825e8b3b@80.91.65.99:1422/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=q-AEsvnN41Jb8KjFqGEBuSOYjFWXGGhpP9SuS9sBNXg&sid=3143dc53998d9689#%F0%9F%87%BA%F0%9F%87%B8US_113
-vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443/?type=ws&encryption=none&flow=&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 
 #END Samantel
 
